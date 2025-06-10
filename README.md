@@ -29,6 +29,12 @@
 
 ---
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AnStacy/AnStacy/output/snake.svg" alt="Snake animation" />
+
+---
+
 ### 🎯 Career Goals
 
 - 👩‍💻 Looking for **junior front-end developer** or **internship** opportunities  
