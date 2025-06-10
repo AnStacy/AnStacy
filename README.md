@@ -43,25 +43,6 @@
 
 ---
 
-### 🌸 Fun Facts
-
-- 🧘 Focused on clean code and harmonious UI 
-- ✏️ Love minimalistic aesthetic & modern design 
-- ☕ Coffee enthusiast & perfectionist  
-- 🎨 I draw in **Procreate**    
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnStacy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnStacy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
-</div>
-
-
----
-
 ### 📬 Contact Me
 
 <p align="left">
@@ -85,5 +66,26 @@
 A clean and interactive task manager with dynamic styling, folder support, and local storage.  
 🔗 [Live Demo (GitHub Pages)](https://anstacy.github.io/To-Do-List) | [View Code](https://github.com/AnStacy/To-Do-List)
 
+🗂 **Wedding_Invitation**  
+A modern and aesthetic wedding invitation website with background video, interactive timeline, embedded map, and RSVP section. Fully responsive and visually elegant. 
+🔗 [Live Demo (GitHub Pages)](https://anstacy.github.io/Wedding_Invitation) | [View Code](https://github.com/AnStacy/Wedding_Invitation)
+
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnStacy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnStacy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
+</div>
+
+---
+
+### 🌸 Fun Facts
+
+- 🧘 Focused on clean code and harmonious UI 
+- ✏️ Love minimalistic aesthetic & modern design 
+- ☕ Coffee enthusiast & perfectionist  
+- 🎨 I draw in **Procreate**    
+
+---
