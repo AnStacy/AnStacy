@@ -29,14 +29,6 @@
 
 ---
 
-### ✨ Featured Project
-
-🗂 **TO DO LIST**  
-A clean and interactive task manager with dynamic styling, folder support, and local storage.  
-🔗 [Live Demo (GitHub Pages)](https://anstacy.github.io/To-Do-List) | [View Code](https://github.com/AnStacy/To-Do-List)
-
----
-
 ### 🎯 Career Goals
 
 - 👩‍💻 Looking for **junior front-end developer** or **internship** opportunities  
@@ -80,3 +72,12 @@ A clean and interactive task manager with dynamic styling, folder support, and l
 
 
 ---
+
+### ✨ Featured Project
+
+🗂 **TO DO LIST**  
+A clean and interactive task manager with dynamic styling, folder support, and local storage.  
+🔗 [Live Demo (GitHub Pages)](https://anstacy.github.io/To-Do-List) | [View Code](https://github.com/AnStacy/To-Do-List)
+
+---
+
