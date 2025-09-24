@@ -47,16 +47,16 @@
 
 <p align="left">
   <a href="mailto:niaiko.ana.stasia@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFB6C1" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/-Gmail-2E2E2E?style=for-the-badge&logo=gmail&logoColor=FF69B4&labelColor=2E2E2E" alt="Email Badge"/>
   </a>
   <a href="https://t.me/Ana_Stasy_n">
-    <img src="https://img.shields.io/badge/Telegram-FF69B4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=FFB6C1" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/-Telegram-2E2E2E?style=for-the-badge&logo=telegram&logoColor=FF69B4&labelColor=2E2E2E" alt="Telegram Badge"/>
   </a>
   <a href="https://discord.com/users/n.nusik.">
-    <img src="https://img.shields.io/badge/Discord-FF69B4?style=for-the-badge&logo=discord&logoColor=white&labelColor=FFB6C1" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/-Discord-2E2E2E?style=for-the-badge&logo=discord&logoColor=FF69B4&labelColor=2E2E2E" alt="Discord Badge"/>
   </a>
-  <a href="http://www.linkedin.com/in/anastasia-niaiko" >
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFB6C1" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/anastasia-niaiko">
+    <img src="https://img.shields.io/badge/-LinkedIn-2E2E2E?style=for-the-badge&logo=linkedin&logoColor=FF69B4&labelColor=2E2E2E" alt="LinkedIn Badge"/>
   </a>
 </p>
 
