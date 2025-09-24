@@ -13,19 +13,19 @@
 **Languages & Tools I work with:**
 
 <p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
-
-🧠 Currently learning: `React`, `Node.js`, `AJAX`
 
 ---
 
@@ -47,13 +47,16 @@
 
 <p align="left">
   <a href="mailto:niaiko.ana.stasia@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=pink" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFB6C1" alt="Email Badge"/>
   </a>
   <a href="https://t.me/Ana_Stasy_n">
-    <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram&logoColor=pink" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-FF69B4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=FFB6C1" alt="Telegram Badge"/>
   </a>
   <a href="https://discord.com/users/n.nusik.">
-    <img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord&logoColor=pink" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Discord-FF69B4?style=for-the-badge&logo=discord&logoColor=white&labelColor=FFB6C1" alt="Discord Badge"/>
+  </a>
+  <a href="http://www.linkedin.com/in/anastasia-niaiko" >
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFB6C1" alt="LinkedIn Badge"/>
   </a>
 </p>
 
